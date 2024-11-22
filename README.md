@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 compsci grad, aicore trainee
-🌱 C++ and blender
-👯 anyone down to make a game?
-🤔 gaining more time to work on projects
+🔭 compsci grad, aicore trainee \n
+🌱 C++ and blender \n
+👯 anyone down to make a game? \n
+🤔 gaining more time to work on projects \n
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutsunokami&show_icons=true&locale=en&layout=compact" alt="mutsunokami" /></p>
