@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h4>Stuff no one cares about:</h4>
+<h4>Stuff about me:</h4>
 🔭 compsci grad, aicore trainee<br/>
 🌱 C++ and blender<br/>
 👯 anyone down to make a game?<br/>
-🤔 gaining more time to work on projects<br/>
-<br/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutsunokami&show_icons=true&locale=en&layout=compact" alt="mutsunokami" /></p>
